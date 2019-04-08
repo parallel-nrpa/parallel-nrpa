@@ -1,4 +1,4 @@
-# Nested Deep Learning
+# Parallel Nested Rollout Policy Adaptation
 
 ## Running experiments
 
