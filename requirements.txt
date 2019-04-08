@@ -11,7 +11,6 @@ decorator==4.3.2
 docopt==0.6.2
 enum34==1.1.6
 ete3==3.1.1
-Flask==0.12
 future==0.17.1
 gitdb2==2.0.5
 GitPython==2.1.11
@@ -58,7 +57,6 @@ pytest==4.3.0
 pytest-benchmark==3.2.2
 python-dateutil==2.8.0
 pytz==2018.9
-PyYAML==3.13
 raven==6.10.0
 requests==2.21.0
 requests-oauthlib==1.2.0
