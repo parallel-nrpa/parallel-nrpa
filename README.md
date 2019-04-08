@@ -1,8 +1,10 @@
 # Parallel Nested Rollout Policy Adaptation
 
+The code that can be used to replicate experiments described in `Parallel Nested Rollout Policy Adaptation` paper.
+
 ## Running experiments
 
-Use `launcher.py`.
+Use `launcher.py`. You need to log into a Neptune account first with `neptune account login` from the command line.
 
 ### Local run (level 4 NRPA on 4 cores).
 
