@@ -42,7 +42,7 @@ Pillow==5.4.1
 pkg-resources==0.0.0
 pluggy==0.9.0
 psutil==5.5.1
-py==1.8.0
+py==1.10.0
 py-cpuinfo==4.0.0
 pycairo==1.18.0
 PyJWT==1.7.1
